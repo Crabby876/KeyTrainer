@@ -21,19 +21,19 @@ Lern-Periode 9
   - [ ] Dieses Layout auf rudimentäre Weise mit HTML und CSS umsetzen
 - [ ] Online-Präsenz: Wenn der Arbeitgeber *in spe* meinen Namen auf einer Suchmaschine eingibt, sollen vor allem seriöse Informationen erscheinen, wenn überhaupt.
   
-- [ ] Referenz-Schreiben ausfüllen:
+- [x] Referenz-Schreiben ausfüllen:
   
-  - [ ] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
-  - [ ] Evidenz für diese Eigenschaften finden und ausformulieren
-  - [ ] Rechtschreibeprüfung
+  - [x] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
+  - [x] Evidenz für diese Eigenschaften finden und ausformulieren
+  - [x] Rechtschreibeprüfung
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich habe ein Grundgerüst für meine Startseite erstellt und habe angefangen es umzusetzen, jedoch bin ich nicht sehr weit gekommen. Danach habe ich einen Referenz-Schreiben angefertigt.
 
 ☝️ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 ## 28.2
 
-- [ ] CV zusammenstellen
+- [ ] Startseite mit css dem Grundgerüst anpassen.
 - [ ] LinkedIn-Profil erstellen / ausputzen
 - [ ] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite: Was ist das dringendste AP?
