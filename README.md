@@ -33,12 +33,13 @@ Lern-Periode 9
 
 ## 28.2
 
-- [ ] Startseite mit css dem Grundgerüst anpassen.
-- [ ] LinkedIn-Profil erstellen / ausputzen
-- [ ] GitHub-Profil professionalisieren (`readme.md`)
-- [ ] Start-Seite: Was ist das dringendste AP?
+- [x] Startseite mit css dem Grundgerüst anpassen.
+- [x] LinkedIn-Profil erstellen / ausputzen
+- [x] GitHub-Profil professionalisieren (`readme.md`)
+- [ ] Start-Seite: Inhalt einfügen
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe Mein GitHub und mein Linkedin Profil verbessert bzw. erstellt. Ich habe danach noch an meiner Bewerbungswebseite gearbeitet und habe die Hauptseite dem Muckup angepasst nun muss ich nurnoch den inhalt reinmachen.
+LinkedIn akk: https://www.linkedin.com/in/doruk-g%C3%BCler-49b955353/
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
