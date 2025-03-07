@@ -45,11 +45,10 @@ LinkedIn akk: https://www.linkedin.com/in/doruk-g%C3%BCler-49b955353/
 
 ## 7.3
 
-- [ ] 
-- [ ] CV-Seite erstellen
-- [ ] Start-Seite 1
-- [ ] Start-Seite 2
-- [ ] Rückmeldung geben.
+- [ ] Start Seite Verbessern
+- [ ] Mock up überarbeiten und verbesserugs Ideen suchen
+- [ ] Meine drei Projekte erlinken und Seite erstellen
+- [ ] Seite mit Links mit CSS verbessern
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
