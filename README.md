@@ -45,22 +45,20 @@ LinkedIn akk: https://www.linkedin.com/in/doruk-g%C3%BCler-49b955353/
 
 ## 7.3
 
-- [ ] Start Seite Verbessern
-- [ ] Mock up überarbeiten und verbesserugs Ideen suchen
-- [ ] Meine drei Projekte erlinken und Seite erstellen
+- [x] Start Seite Verbessern
+- [x] Mock up überarbeiten und verbesserugs Ideen suchen
+- [ ] Meine drei Projekte verlinken und Seite erstellen
 - [ ] Seite mit Links mit CSS verbessern
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich an meiner Bewerbungswebseite gearbeitet und habe es einbisschen verbessert. Jedoch ist die Webseite nicht wirklich gut und ich muss es noch verbessern.
 
 ☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 ## 14.3
 
-- [ ] 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Projekt Webseite erstellen
+- [ ] Projekt Seite mit CSS upgraden
+- [ ] Start Seite verbessern
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
