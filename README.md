@@ -56,9 +56,9 @@ LinkedIn akk: https://www.linkedin.com/in/doruk-g%C3%BCler-49b955353/
 
 ## 14.3
 
-- [ ] Projekt Webseite erstellen
-- [ ] Projekt Seite mit CSS upgraden
-- [ ] Start Seite verbessern
+- [ ] Mit phyton ein kleines Reflex-Tester programmieren fürs lernen und umgewöhnen.
+- [ ] Phyton random Text generator erstellen aus 10 random Wörter die in TXT Datei sind
+- [ ] User eingabe Möglichkeit hinzufügen und nach jeder eingabe überprüfen lassen ob es mit random Text übereinstimmt.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
