@@ -56,7 +56,7 @@ LinkedIn akk: https://www.linkedin.com/in/doruk-g%C3%BCler-49b955353/
 
 ## 14.3
 
-- [ ] Mit phyton ein kleines Reflex-Tester programmieren fürs lernen und umgewöhnen.
+- [x] Mit phyton ein kleines Reflex-Tester programmieren fürs lernen und umgewöhnen.
 - [ ] Phyton random Text generator erstellen aus 10 random Wörter die in TXT Datei sind
 - [ ] User eingabe Möglichkeit hinzufügen und nach jeder eingabe überprüfen lassen ob es mit random Text übereinstimmt.
 
