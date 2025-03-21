@@ -60,6 +60,4 @@ LinkedIn akk: https://www.linkedin.com/in/doruk-g%C3%BCler-49b955353/
 - [x] Phyton random Text generator erstellen aus 10 random Wörter die in TXT Datei sind
 - [x] GUI mit phyton kennenlernen und einen ersten GUI mit dem Text für mein Projekt erstellen
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
+✍️ Heute habe ich meine ersten Projekte mit Python erstellt bzw gestartet. Als erstes habe ich einen Reflextester programmiert damit ich mich an Python gewöhne. Danach habe ich die Top 500 Deutschen Wörter in einer .txt Datei gespeichert. Mein Python code liest nun 10 rando wörter aus der Datei raus und gibt es als string zurück. Diesen String gebe ich dann auf einem GUI in Label zurück.
