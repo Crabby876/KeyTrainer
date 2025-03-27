@@ -64,7 +64,16 @@ LinkedIn akk: https://www.linkedin.com/in/doruk-g%C3%BCler-49b955353/
 
 ## 21.3
 
-- [ ] Eingabe möglichkeit machen in GUI
-- [ ] programmieren dass nach jedesmal tippen die Texte in einzelnen buchstaben geteilt werden und man überprüfen kann ob es gleich ist.
+- [x] Eingabe möglichkeit machen in GUI
+- [x] programmieren dass nach jedesmal tippen die Texte in einzelnen buchstaben geteilt werden und man überprüfen kann ob es gleich ist.
 - [ ] überprüfungs methode erstellen.
 - [ ] Fehler markierung einfügen
+
+Heute habe ich nicht alle arbeitsziele geschafft. Ich habe sehr lange gebraucht bis ich die eingabe Möglichkeit richtig programmieren konnte. Damit es besser aussieht habe ich nicht einfach ein Textfeld genomen sonder habe es so programmiert das das Programm eine Eingabe erkennt und das dann an ein String hinzufügt welches dan im Form von einem Label ausgegeben wird.
+
+## 28.3
+
+- [ ] Methode zum Überprüfen erstellen
+- [ ] Fehler mit roter schrift Markieren
+- [ ] Ein uhr system einfügen das die Zeit misst.
+- [ ] WPM (WordsPerMinute) berechnen und in einem Label ausgeben.
