@@ -73,7 +73,9 @@ Heute habe ich nicht alle arbeitsziele geschafft. Ich habe sehr lange gebraucht 
 
 ## 28.3
 
-- [ ] Methode zum Überprüfen erstellen
-- [ ] Fehler mit roter schrift Markieren
+- [x] Methode zum Überprüfen erstellen
+- [x] Fehler mit roter schrift Markieren
+- [ ] End screen erstellen und Button für Neustart einbauen.
 - [ ] Ein uhr system einfügen das die Zeit misst.
+
 - [ ] WPM (WordsPerMinute) berechnen und in einem Label ausgeben.
