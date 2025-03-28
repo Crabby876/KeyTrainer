@@ -75,7 +75,10 @@ Heute habe ich nicht alle arbeitsziele geschafft. Ich habe sehr lange gebraucht 
 
 - [x] Methode zum Überprüfen erstellen
 - [x] Fehler mit roter schrift Markieren
-- [ ] End screen erstellen und Button für Neustart einbauen.
+- [x] End screen erstellen und Button für Neustart einbauen.
 - [ ] Ein uhr system einfügen das die Zeit misst.
 
+Heute habe ich meinen Projekt überarbeitet und viele grosse Veränderungen vorgenommen. Ich habe die funktions weise veränder. Nun wird jeder Buchstabe vom generierten Text in einen einzelnen Label gespeichert. Somit kann ich Fehler besser markieren. Ausserdem erscheinnt der getippte Text nun nicht mehr unter dem Generierten sondern die Farbe vom generierten Text ändert sich mit jedes mal Tippen von grau auf schwarz oder rot (für Fehler). Wenn man jetzt denn ganzen Text fertig getippt hat, kommt ein neuer Screen ins Vorschein und man sieht ein Label (für WPM später) und ein Button für restart.
+
 - [ ] WPM (WordsPerMinute) berechnen und in einem Label ausgeben.
+- [ ] Code verbessern und verschönern (CleanCode)
