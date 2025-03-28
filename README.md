@@ -80,5 +80,6 @@ Heute habe ich nicht alle arbeitsziele geschafft. Ich habe sehr lange gebraucht 
 
 Heute habe ich meinem Projekt überarbeitet und viele grosse Veränderungen vorgenommen. Ich habe die Funktionsweise veränder. Nun wird jeder Buchstabe vom generierten Text in einem einzelnen Label gespeichert. Somit kann ich Fehler besser markieren. Ausserdem erscheint der getippte Text jetzt nicht mehr unter dem Generierten, sondern die Farbe vom generierten Text ändert sich mit jedes Mal Tippen von grau auf schwarz oder rot (für Fehler). Wenn man jetzt denn ganzen Text fertig getippt hat, kommt ein neuer Screen ins Vorschein und man sieht ein Label (für WPM später) und ein Button für Restart.
 
+## 4.4
 - [ ] WPM (WordsPerMinute) berechnen und in einem Label ausgeben.
 - [ ] Code verbessern und verschönern (CleanCode)
